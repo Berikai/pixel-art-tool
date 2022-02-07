@@ -32,12 +32,11 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Any kind of pull requests are welcome. If you have an idea or you want to do a major changes, it would be nice to open an issue to discuss what you would like to change.
+Thanks for your contribution <3
 
 ## Donations
-Pixbud is completely free to use. Please support the project by donating. Thank you <3
+Appreciate your donations :)
 ### Bitcoin
 > 19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho
 ### Ethereum
