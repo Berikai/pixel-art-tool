@@ -50,5 +50,5 @@ Pixbud is completely free to use. Please support the project by donating. Thank 
 > G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p
 
 ## License
-MIT
+MIT License
 
