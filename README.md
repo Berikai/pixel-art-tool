@@ -30,3 +30,25 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Donations
+Pixbud is completely free to use. Please support the project by donating. Thank you <3
+### Bitcoin
+> 19ZopJi8YGz32XQwWyxhbcAwMt6yDh6Qho
+### Ethereum
+> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+### Binance Smart Chain
+> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+### Polygon
+> 0x3aCdA83c0EAD65033cD532357De3c8B71b1C94d5
+### Solana
+> G92WzULy5D3sA5pBisViEPn5X3umEJnFU59uALaCL69p
+
+## License
+MIT
+
