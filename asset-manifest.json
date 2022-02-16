@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pixel-art-tool/static/css/main.548c5ffc.chunk.css",
+    "main.js": "/pixel-art-tool/static/js/main.90616848.chunk.js",
+    "main.js.map": "/pixel-art-tool/static/js/main.90616848.chunk.js.map",
+    "runtime-main.js": "/pixel-art-tool/static/js/runtime-main.aa39b312.js",
+    "runtime-main.js.map": "/pixel-art-tool/static/js/runtime-main.aa39b312.js.map",
+    "static/js/2.9f2daa24.chunk.js": "/pixel-art-tool/static/js/2.9f2daa24.chunk.js",
+    "static/js/2.9f2daa24.chunk.js.map": "/pixel-art-tool/static/js/2.9f2daa24.chunk.js.map",
+    "index.html": "/pixel-art-tool/index.html",
+    "static/css/main.548c5ffc.chunk.css.map": "/pixel-art-tool/static/css/main.548c5ffc.chunk.css.map",
+    "static/js/2.9f2daa24.chunk.js.LICENSE.txt": "/pixel-art-tool/static/js/2.9f2daa24.chunk.js.LICENSE.txt",
+    "static/media/canvas.403e4940.svg": "/pixel-art-tool/static/media/canvas.403e4940.svg",
+    "static/media/logo.8bbdd522.svg": "/pixel-art-tool/static/media/logo.8bbdd522.svg",
+    "static/media/pencil.ebb08039.svg": "/pixel-art-tool/static/media/pencil.ebb08039.svg",
+    "static/media/settings.504c19b0.svg": "/pixel-art-tool/static/media/settings.504c19b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa39b312.js",
+    "static/js/2.9f2daa24.chunk.js",
+    "static/css/main.548c5ffc.chunk.css",
+    "static/js/main.90616848.chunk.js"
+  ]
+}
